@@ -289,7 +289,7 @@ const Banner = () => {
               >
                 <Button
                   component={Link}
-                  to="/claim-token"
+                  to="https://presale-claim-page.vercel.app/"
                   onMouseEnter={(e) => (e.target.style.color = "#000")}
                   onMouseLeave={(e) => (e.target.style.color = "#fff")}
                   sx={{

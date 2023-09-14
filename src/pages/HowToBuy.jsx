@@ -1,12 +1,12 @@
 import { Box, Container, Grid, Typography } from "@mui/material";
 import React from "react";
-import step1 from "../../public/assets/howto/2/step1.jpeg";
-import step2 from "../../public/assets/howto/2/step2.jpeg";
-import step3 from "../../public/assets/howto/2/step3.jpeg";
-import step4 from "../../public/assets/howto/2/step4.jpeg";
-import step5 from "../../public/assets/howto/2/step5.jpeg";
-import step6 from "../../public/assets/howto/2/step6.jpeg";
-import step7 from "../../public/assets/howto/2/step7.jpeg";
+import step1 from "../assets/images/howto/2/step1.jpeg";
+import step2 from "../assets/images/howto/2/step2.jpeg";
+import step3 from "../assets/images/howto/2/step3.jpeg";
+import step4 from "../assets/images/howto/2/step4.jpeg";
+import step5 from "../assets/images/howto/2/step5.jpeg";
+import step6 from "../assets/images/howto/2/step6.jpeg";
+import step7 from "../assets/images/howto/2/step7.jpeg";
 const StepsArray = [
   {
     step: "Step 1:",
