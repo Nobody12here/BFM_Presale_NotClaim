@@ -25,7 +25,7 @@ const SmoothSliderWrapper = styled.div`
     justify-content: center;
 
     img {
-      max-height: 40px;
+      max-height: 80px;
     }
   }
 
