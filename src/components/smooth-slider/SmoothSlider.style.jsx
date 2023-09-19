@@ -26,6 +26,7 @@ const SmoothSliderWrapper = styled.div`
 
     img {
       max-height: 80px;
+      max-width:140px;
     }
   }
 
